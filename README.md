@@ -6,7 +6,7 @@ Dieses Repository enthält Vorlagen für eine Nachbarschafts-Teilliste, die ich 
 - Vorlage für den Aushang im Haus
 - Vorlage für die Liste, auf der sich Nachbarn eintragen können
 
-Fühlen Sie sich frei, die Vorlagen zu verwenden, anzupassen und weiterzugeben. Je mehr Menschen sich beteiligen, desto mehr können wir gemeinsam teilen und die Gemeinschaft stärken!
+Jeder kann die Vorlagen verwenden, anpassen und weitergeben. Je mehr Menschen sich beteiligen, desto mehr können wir gemeinsam teilen und die Gemeinschaft stärken!
 
 ---
 
